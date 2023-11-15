@@ -7,3 +7,10 @@ coverage/*
 lib/*
 scripts/coverage.js
 tmp
+build/*
+contracts/*
+contracts-test/*
+coverage/*
+lib/*
+scripts/coverage.js
+tmp
